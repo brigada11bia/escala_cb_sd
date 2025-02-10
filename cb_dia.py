@@ -10,4 +10,4 @@ with coluna_img:
     
     
 #upload do arquivo
-st.image('previsao_cb_dia.png', width=450)
+st.image('previsao_cb_dia.png', width=650)
